@@ -6,5 +6,6 @@ public class Main {
         //마지 테스트 중
         // case 1 테스트
         // case 2 작업
+        // pr
     }
 }
